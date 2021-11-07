@@ -1,3 +1,6 @@
+# 论文提出了一种轻量化模型，用到了RML 2016 datasets数据集
+文中参考github，引用实现了CNN、VGG、ResNet，同样的，可以作为方案（4）进一步提高识别准确率，也可以勉强作为方案（1）模型压缩策略。
+
 # pythagore-mod-reco
 Modulation recognition AI algorithms benchmark.
 This project contains a Jupyter Notebook for the interactive benchmark, deep learning networks and a few utility functions gathered into a package.
