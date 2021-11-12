@@ -1,6 +1,7 @@
-# 2021论文提出了一种轻量化模型，用到了RML 2016 datasets数据集
-文中参考github，引用实现了CNN、VGG、ResNet，同样的，可以作为方案（4）进一步提高识别准确率，也可以勉强作为方案（1）模型压缩策略。
+# 2021论文提出了一种轻量化模型与复现的CNN、VGG、ResNet进行比较，用到了RML 2016a/b/c 2018a数据集
+文中复现了CNN、VGG、ResNet，可以作为方案（4）进一步提高识别准确率，也可以勉强作为方案（1）模型压缩策略。
 - 环境配置在requirements.txt
+- 里面提及了频移frequency shift
 
 # pythagore-mod-reco
 Modulation recognition AI algorithms benchmark.
